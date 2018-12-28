@@ -16,6 +16,8 @@ This repository collects some awesome python learning resources including course
 3. Books
   * [Python Cookbook](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377/ref=sr_1_3?ie=UTF8&qid=1546037760&sr=8-3&keywords=python+cookbook)
   * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?ie=UTF8&qid=1546037734&sr=8-1&keywords=fluent+python)
+  * [Python Tricks: A Buffet of Awesome Python Features](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY/ref=sr_1_1_sspa?ie=UTF8&qid=1546038066&sr=8-1-spons&keywords=effective+python&psc=1)
+  * [Effective Python: 59 Specific Ways to Write Better Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287/ref=sr_1_3?ie=UTF8&qid=1546038066&sr=8-3&keywords=effective+python)
 
 4. Online Tutorial
-	* [Python HOWTOs](https://docs.python.org/3/howto/index.html)
+  * [Python HOWTOs](https://docs.python.org/3/howto/index.html)
