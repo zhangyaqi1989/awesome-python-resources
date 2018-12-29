@@ -21,3 +21,4 @@ This repository collects some awesome python learning resources including course
 
 4. Online Tutorial
   * [Python HOWTOs](https://docs.python.org/3/howto/index.html)
+  * [Real Python](https://realpython.com/)
