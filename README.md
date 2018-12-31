@@ -10,6 +10,10 @@ This repository collects some awesome python learning resources including course
   * [PyCon 2015 Ned Batchelder - Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns&list=WL&t=0s&index=3)
   * [PyCon 2015 Ned Batchelder - Loop like a native: while, for, iterators, generators](https://www.youtube.com/watch?v=EnSu9hHGq5o&list=WL&index=3)
   * [PyCon 2013 Raymond Hettinger - Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
+  * [PyCon 2017 Al Sweigart - Yes, It's Time to Learn Regular Expressions](https://www.youtube.com/watch?v=abrcJ9MpF60&index=6&list=WL&t=0s)
+  * [PyCon 2018 James Bennett - A Bit about Bytes: Understanding Python Bytecode](https://www.youtube.com/watch?v=cSSpnq362Bk&index=12&list=WL&t=967s)
+  * [PyCon 2015 Brett Slatkin - How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164)
+  * [PyCon 2018 Emily Morehouse-Valcarcel - The AST and Me](https://www.youtube.com/watch?v=XhWvz4dK4ng&t=661s)
 
 
 
@@ -22,3 +26,4 @@ This repository collects some awesome python learning resources including course
 4. Online Tutorial
   * [Python HOWTOs](https://docs.python.org/3/howto/index.html)
   * [Real Python](https://realpython.com/)
+  * [Byterun](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
